@@ -13,7 +13,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/mchz13579/PhinixStore
-cd phinixstore_bot
+cd phinixstore
 npm install
 npm update
 ```
@@ -48,7 +48,7 @@ ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
 git clone https://github.com/mchz13579/
-cd phinixstore_bot
+cd phinixstore
 npm install
 npm update
 ```
@@ -64,7 +64,7 @@ npm update
 
 ```bash
 git clone https://github.com/mchz13579/
-cd phinixstore_bot
+cd phinixstore
 npm install
 npm update
 ```
